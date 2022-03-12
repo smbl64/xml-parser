@@ -1,4 +1,4 @@
-A simple XML parser writte in Rust.
+A simple XML parser written in Rust.
 
 Based on [this tutorial][tutorial].
 
